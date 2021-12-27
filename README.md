@@ -2,7 +2,7 @@
 ![travelly1](https://user-images.githubusercontent.com/89916459/146689955-256277e2-b523-482d-bfd6-f71818749bea.png)
 
 # About The Project
-This project is a travel agency website. It was built by HTML and CSS. I did this project because I want to practice my HTML and CSS skills that are very useful and basic skills for all web developers.
+Travelly is a travel agency website. This is my first project after I started learning about frontend development. It was only built by HTML and CSS that are basic fundamentals of frontend development. I built it to showcase my skills and improve my self-confident.
 
 # What I Got From This Project
 * Style a plain HTML page with CSS
