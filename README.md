@@ -12,7 +12,7 @@ Travelly is a travel agency website. This is my first project after I started le
   * Create some little animations using X,Y transition
   * Responsive web design for different screens and devices using media query
   
-# Example
+# Sample Pictures
 
 ![travelly2](https://user-images.githubusercontent.com/89916459/146691764-258721cb-1e43-4a4e-8fcf-0d0e715448fc.png)
 ![travelly3](https://user-images.githubusercontent.com/89916459/146691765-cf8f515d-ea68-4ac6-9c5b-1a53e0eb6c4c.png)
