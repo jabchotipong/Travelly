@@ -2,7 +2,7 @@
 ![travelly1](https://user-images.githubusercontent.com/89916459/146689955-256277e2-b523-482d-bfd6-f71818749bea.png)
 
 # About The Project
-Travelly is a travel agency website. This is my first project after I started learning about frontend development. It was only built by HTML and CSS that are basic fundamentals of frontend development. I built it to showcase and imporve my skills.
+Travelly is a travel agency website. This was my first project when I started learning about frontend development. It was only built by HTML and CSS that were basic fundamentals of frontend development. I built it to showcase and imporve my skills.
 
 # What Languages I Use For This Project
 * HTML
