@@ -2,13 +2,15 @@
 ![travelly1](https://user-images.githubusercontent.com/89916459/146689955-256277e2-b523-482d-bfd6-f71818749bea.png)
 
 # About The Project
-Travelly is a travel agency website. This is my first project after I started learning about frontend development. It was only built by HTML and CSS that are basic fundamentals of frontend development. I built it to showcase my skills and improve my self-confident.
+Travelly is a travel agency website. This is my first project after I started learning about frontend development. It was only built by HTML and CSS that are basic fundamentals of frontend development. I built it to showcase and imporve my skills.
 
-# What I Got From This Project
-* Style a plain HTML page with CSS
-* Practice flexbox
-* Create a little animation by using CSS
-* Responsive web design by using CSS for every device and screen size
+# What Languages I Use For This Project
+* HTML
+* CSS
+  * Style all HTML elements
+  * Use flexbox to allow elements to align and distribute space within a container
+  * Create some little animations using X,Y transition
+  * Responsive web design for different screens and devices using media query
   
 # Example
 
